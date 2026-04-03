@@ -11,7 +11,7 @@
 A modern, responsive portfolio website showcasing my skills, projects, certifications, and achievements as a Computer Science student specializing in Python development, AI/ML, and full-stack web technologies.
 
 ### ✨ Live Demo
-[View Portfolio](https://your-github-username.github.io/portfolio) *(Replace with your actual GitHub Pages URL)*
+devkishore-portfolio.netlify.app *(Replace with your actual GitHub Pages URL)*
 
 ## 🎯 Features
 
